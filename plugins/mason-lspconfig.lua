@@ -10,6 +10,7 @@ return {
       "marksman",
       "jsonls",
       "pyright",
+      "ruff_lsp",
       "sqlls",
       "lua_ls",
       "tsserver",

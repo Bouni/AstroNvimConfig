@@ -2,12 +2,13 @@ return {
   -- set vim options here (vim.<first_key>.<second_key> =  value)
   opt = {
     -- set to true or false etc.
-    relativenumber = true, -- sets vim.opt.relativenumber
+    mouse = "",
+    relativenumber = false, -- sets vim.opt.relativenumber
     number = true, -- sets vim.opt.number
     spell = false, -- sets vim.opt.spell
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = true, -- sets vim.opt.wrap
-    conceallevel = 2, -- enable conceal
+    conceallevel = 1, -- enable conceal
     foldenable = false,
     foldexpr = "nvim_treesitter#foldexpr()", -- set Treesitter based folding
     foldmethod = "expr",

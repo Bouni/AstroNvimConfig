@@ -1,6 +1,6 @@
 <h1 align="center">AstroNvim User Configuration</h1>
 
-Config originally by [kabinspace](https://github.com/kabinspace/AstroNvim_user)
+<h2 align="center">Config originally by [kabinspace](https://github.com/kabinspace/AstroNvim_user)</h2>
 
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/bouni/AstroNvimConfig?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>

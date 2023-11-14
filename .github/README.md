@@ -1,9 +1,11 @@
 <h1 align="center">AstroNvim User Configuration</h1>
 
+Config originally by [kabinspace](https://github.com/kabinspace/AstroNvim_user)
+
 <div align="center">
-<img src="https://img.shields.io/github/last-commit/kabinspace/AstroNvim_user?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>
-<img src="https://img.shields.io/github/repo-size/kabinspace/AstroNvim_user?style=for-the-badge&logo=dropbox&color=7dc4e4&logoColor=D9E0EE&labelColor=302D41"/>
-<img src="https://img.shields.io/github/license/kabinspace/AstroNvim_user?style=for-the-badge&logo=powerpages&color=cba6f7&logoColor=D9E0EE&labelColor=302D41"/>
+<img src="https://img.shields.io/github/last-commit/bouni/AtroNvimConfig?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>
+<img src="https://img.shields.io/github/repo-size/bouni/AtroNvimConfig?style=for-the-badge&logo=dropbox&color=7dc4e4&logoColor=D9E0EE&labelColor=302D41"/>
+<img src="https://img.shields.io/github/license/bouni/AtroNvimConfig?style=for-the-badge&logo=powerpages&color=cba6f7&logoColor=D9E0EE&labelColor=302D41"/>
 </div>
 
 ## 🌟 Preview
